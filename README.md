@@ -2,7 +2,7 @@
 Python code for KNN implementation from scratch
 
 Steps involved:
-  Calculate d vector where d denotes the Euclidean distance between the training points and each test point.
+  Calculate d vector where d denotes the Euclidean distance between the training points and each test point.\n
   Arrange the calculated n Euclidean distances in increasing order.
   Let k be a +ve integer, take the first k distances from this sorted list.
   Find those k-points from training labels corresponding to these k-distances.
