@@ -1,5 +1,5 @@
 # KNN_Scratch
-# Python code for KNN implementation from scratch
+# Python code for KNN implementation from scratch tested on iris dataset
 
 Steps involved:
 
